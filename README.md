@@ -1,4 +1,4 @@
-# 🧹 AASHRA CLEANING - A Hygienic Lifestyle (React Version)
+# AASHRA CLEANING - A Hygienic Lifestyle (React Version)
 
 This project is a modern, fully responsive single-page application for the **AASHRA CLEANING** service.  
 Originally built with static HTML, CSS, and JavaScript, it has been **refactored into a component-based React application** using **Vite** for a fast and modern development experience.
