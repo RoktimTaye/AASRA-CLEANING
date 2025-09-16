@@ -7,17 +7,17 @@ const servicesData = [
   {
     image: box1Image,
     alt: "Cleaning service for students or employees",
-    title: "STUDENT/EMPLOYEE"
+    title: "STUDENT/EMPLOYEE - (1 person & 2 person : 599rs & 999rs/monthly)"
   },
   {
     image: box2Image,
     alt: "Family cleaning package",
-    title: "FAMILY"
+    title: "FAMILY - (1 person & 2 person : 599rs & 999rs/monthly)"
   },
   {
     image: box3Image,
     alt: "Cleaning for hotels, guesthouses, or homestays",
-    title: "HOTEL/GUESTHOUSE/HOMESTAY"
+    title: "HOTEL/GUESTHOUSE/HOMESTAY - (1 person & 2 person : 599rs & 999rs/monthly)"
   }
 ];
 

@@ -1,33 +1,3 @@
-// import React, { useState } from 'react';
-
-// const Header = () => {
-//   const [isMenuVisible, setIsMenuVisible] = useState(false);
-
-//   const toggleMenu = () => {
-//     setIsMenuVisible(!isMenuVisible);
-//   };
-
-//   const closeMenu = () => {
-//     setIsMenuVisible(false);
-//   }
-
-//   return (
-//     <header className="header">
-//       <nav className="nav-container">
-//         <a href="#" className="nav-logo">AASRA CLEANING</a>
-//         <div className={`nav-menu ${isMenuVisible ? 'nav-menu--visible' : ''}`}>
-//           <a href="#services" onClick={closeMenu}>SERVICES</a>
-//           <a href="#contact" onClick={closeMenu}>CONTACT</a>
-//         </div>
-//         <button className="nav-toggle" aria-label="Toggle navigation menu" onClick={toggleMenu}>
-//           {isMenuVisible ? <i className="ri-close-line"></i> : <i className="ri-menu-line"></i>}
-//         </button>
-//       </nav>
-//     </header>
-//   );
-// };
-
-// export default Header;
 
 import React, { useState } from "react";
 
