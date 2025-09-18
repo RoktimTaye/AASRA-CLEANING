@@ -23,7 +23,7 @@ const servicesData = [
   {
     image: box1Image,
     alt: "Laundry plan for students and bachelors",
-    title: "STUDENTS & BACHELOR - ₹599 (1 person) & ₹999 (2 person) /monthly for 40 clothes"
+    title: "STUDENTS & BACHELOR - Starting @ ₹499/monthly for 40 clothes"
   },
   {
     image: box2Image,
